@@ -6,4 +6,4 @@ Predicting material would be more suitable for making the 3D model. In this proj
 
 Based on these parameters a supervised machine learning model is built to predict the best material to be used for building 3D models. A web application is build so that the user can type in the mentioned parameters and the material which suits the best is showcased on UI.
 
-video demo:
+video demo: https://drive.google.com/file/d/1DSrok4MgnrPuib4qjhgfWre5WqiBdNYK/view?usp=share_link
